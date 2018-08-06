@@ -11,6 +11,14 @@
     <name>project</name>
     <url>http://maven.apache.org</url>
 
+    <developers>
+        <developer>
+            <id>gantz</id>
+            <name>Peter Bardashev</name>
+            <email>putrify@mail.ru</email>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>javax</groupId>
